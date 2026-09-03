@@ -1,0 +1,15 @@
+
+/*external CSS
+
+Common Selectors:
+1. Element Selectors
+2. Class Selectors
+3. ID Selectors
+
+
+*/
+
+
+p{color: purple;}/*element selector*/
+.item-list{font-weight: bold; color:orange;}/*class selector*/
+#first{color:darkgray;}/*ID selector*/
